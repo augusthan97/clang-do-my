@@ -12,7 +12,7 @@
 void main() { // main : 주함수, 진입 함수 - 하나의 프로젝트(솔루션)에 1개의 main만 존재해야함
 			  // void : 뒤에 적은 함수를 실행하고 반환(return)하는 값이 없다.
 	//printf("Hello World!!!\n");
-	printf("Hello World!!!\nAnnyeong-haseyo~~\n Hello This is Han YongGu / 저는 한용구입니다.");
+	printf("Hello World!!!(git)\n");
 
 	// return -1;	//return(-1) or return -1
 }
